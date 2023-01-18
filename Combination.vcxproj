@@ -22,6 +22,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="hoge.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
